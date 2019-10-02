@@ -28,7 +28,8 @@ void BulleSort() {
 	printf("\n");
 }
 
-int main() {
+int main() ｛
+        BulleSort();
 	system("pause");
 	return 0;
 }
