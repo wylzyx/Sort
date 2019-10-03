@@ -28,6 +28,10 @@ void BulleSort() {
 	printf("\n");
 }
 
+void QuickSort() {
+
+}
+
 int main() ｛
         BulleSort();
 	system("pause");
