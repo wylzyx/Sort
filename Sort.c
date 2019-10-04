@@ -32,6 +32,10 @@ void QuickSort() {
 
 }
 
+void StackSort() {
+
+}
+
 int main() ｛
         BulleSort();
 	system("pause");
