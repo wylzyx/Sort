@@ -55,10 +55,6 @@ void quicksort(int left, int right) {
     quicksort(i+1, right);//继续处理右边的 ，这里是一个递归的过程
 }
 
-void StackSort() {
-
-}
-
 int main() ｛
         BulleSort();
 	system("pause");
