@@ -28,7 +28,8 @@ void BulleSort() {
 	printf("\n");
 }
 
-int a[101],n;//定义全局变量，这两个变量需要在子函数中使用
+int a[101],n;
+//定义全局变量，这两个变量需要在子函数中使用
 void quicksort(int left, int right) {
 	int i, j, t, temp;
 	if(left > right)
